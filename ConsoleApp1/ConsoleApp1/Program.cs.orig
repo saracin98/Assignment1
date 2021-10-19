@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("FirstUser");
+<<<<<<< HEAD
+            Console.WriteLine("FirstUser modified line");
+=======
+            Console.WriteLine("SecondUser modified line!");
+>>>>>>> bee9e2ade4194aa95b6ae5465d08608e56bce4be
+        }
+    }
+}
