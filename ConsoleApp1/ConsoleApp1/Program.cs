@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("FirstUser");
             Console.WriteLine("New Line");
+            Console.WriteLine("New Line ");
         }
     }
 }
